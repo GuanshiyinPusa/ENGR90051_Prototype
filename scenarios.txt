@@ -1,0 +1,23 @@
+Tier reward system
+The specific scenario where your prototype will be used. 
+
+The user put enough electronic components in the system and got enough credits
+of a tier, then the user can draw cards.
+
+Steps:
+The students bring the electrnoic components to school or TCS or e-waste bin for
+recycle. 
+
+The staff can log their contribution into the tier reward system under the
+students account.
+
+When the students reward system reaches certain points at the tier reward systm.
+They can draw card from the system and get some rewards to be claimed.
+
+Online system that connects to the student account -- my.unimelb. Different
+electronic components can be transferred into different points. For example,
+resistors are 1 points, the PCB is 10 points, and the computer is 1000 points.
+The points system will be reevaluated every year to make sure it is incentive to
+students for recycling them.
+
+
