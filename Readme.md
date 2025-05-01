@@ -85,4 +85,7 @@ So the TCS staff/bin to evaluate based on the points system we designed. And we
 gonna say like they can change it every year/sms to make sure the right points,
 that said, 1000 may be not so incentive to students to bring them to TCS.
 
-
+I am really happy with prop8 so far. You can experience the basic functions on
+it.
+In prop9 I added the congrat message on the left side panel. I think that is
+enough as a demo.
