@@ -1,0 +1,7 @@
+id,name,cost,purchased
+1,USB Drive,30,True
+2,Coffee Voucher,50,True
+3,Power Bank,100,True
+4,Wireless Earbuds,150,False
+5,Engineering Software License,200,False
+6,Lab Equipment Access,250,False

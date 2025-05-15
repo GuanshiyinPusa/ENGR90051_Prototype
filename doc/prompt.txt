@@ -1,0 +1,47 @@
+I want to have several web pages for my card drawing system. This is for setting
+up a rewards system for students recycling e-waste in university of Melbourne.
+
+The main page should include the progress bar in the top middle which tells you how much points
+you got with the card drawing part right below it.
+The drawing card system will read from the folder -- cards/, inside, there is
+back.png, which is the back of a card, and then fronts/ which includes three
+type of cards folder -- common/, rare/, and legendary/. 
+
+I will have the images for those in png form. The system will read as many png
+from the folder as the card.
+
+Each of these folders We got a side bar that is extendable and incudes three options -- Profile --
+change for credit -- rewards, each relates to one page. below them is the prompt
+message, saying how many cards are loaded, how many common, rare and legendary
+cards.
+
+Every 100 points on the progress bar will allow the student to draw the card in
+the card drawing part, there will be three cards that is locked with the card
+pool, they will only draw cards from the designated card pool, which the first
+slot is locked in common, the second slot is locked in common and rare, and the
+third is locked with rare and legendary. 
+
+Profile page:
+The profile page, will include the student name, id and email address, and a
+past history of things recycled. You can make a fake name and everything, for
+the things recycled, you can make up things that is electronic engineering
+students related, for example, bread board, resisters. You gonna have a number
+on the things. There is no image, so just a table, for example, resisters --
+100. there will also be a card drawn list, which they can see what cards they
+have drawn from the card pool.
+
+Change for credit page:
+This page will allow the school staff to key in the points that the students
+recycled. I will give you an image of fake QR code and below is an input box, if
+a number is keyed inside it, it will be added to the progress bar on the main
+page.
+
+Rewards:
+The user can see the top right there is another independent credit system which
+records how much points they are getting from drawing cards. common means 5
+points, rare means 10 points, and legendary means 20 points. The main part of
+this page is to have images of the reward with the credit it equals to right
+below it, there will be three reward in a row and I will probably put up 6, I
+will also manage the image.
+
+
