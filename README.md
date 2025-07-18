@@ -1,4 +1,5 @@
 # ENGR90051 Website prototype
+- Install streamlit using pip and run prop11.py. EZ! Just put the images you want for card back/front in the folders.
 - Cooked the prototype using streamlit in one hour in class(they don't teach real stuff. I remembered the tutor was taking about how to purge some of the ideas generated during brainstorm. Bruh, you know you talking to college graduates right?)
 - Got 3 functions - Gatcha system (draw 3 random cards from the card pool -> card is transferred in to credit -> use credit to purchase stuff)
 - Good Idea (in case anyone in future class sees this) The project is about reducing e-waste in campus, and you gotta consider all the stakeholders. The un-dodgeable question is that, what is the school getting out of it? The answer is that they put those out of date monitors and stuff in the web store we created, thus reduce their expenditure on purchasing incentives.
