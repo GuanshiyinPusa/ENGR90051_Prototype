@@ -9,7 +9,7 @@
 - The tutors claimed that they wanted the students to be qualifed to be real life engineerings. But their linkedin basically shows they have **ZERO** experience in their industry. Teaching team is basically nepo babies + DEI.
 - One of the tutor Zoey started her teaching career in Unimelb with the bias that "Local White students always do better than international students." What a great start! Let's cheer for her. She is Chinese btw, even more pathetic.
 
-## Sounded like you got an option on product to deliver but U don't
+## Sounded like you got options on the final product but U don't
 - 80% people built website (That's why they assigned teams because they need an Software Engineering/EE students in each team).
 - 10% made pesudo website
 - 10% EE students used arduino to make some gadgets(respect!)
